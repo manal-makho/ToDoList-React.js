@@ -1,0 +1,11 @@
+/* TodoList.css */
+.todo-list-container {
+    text-align: center;
+    margin-top: 50px; 
+  }
+  
+  .centered-list {
+    display: inline-block;
+    text-align: left;
+  }
+  
